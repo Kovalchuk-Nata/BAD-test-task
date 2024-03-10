@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\bin\Debug\net6.0\test_task_BAD.exe
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\bin\Debug\net6.0\test_task_BAD.deps.json
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\bin\Debug\net6.0\test_task_BAD.runtimeconfig.json
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\bin\Debug\net6.0\test_task_BAD.dll
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\bin\Debug\net6.0\test_task_BAD.pdb
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\test_task_BAD.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\test_task_BAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\test_task_BAD.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\test_task_BAD.AssemblyInfo.cs
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\test_task_BAD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\test_task_BAD.dll
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\refint\test_task_BAD.dll
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\test_task_BAD.pdb
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\test_task_BAD.genruntimeconfig.cache
+C:\Users\Dell\Desktop\учеба\BAD\test_task_BAD\test_task_BAD\obj\Debug\net6.0\ref\test_task_BAD.dll
